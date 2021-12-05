@@ -6,7 +6,7 @@ I really enjoy learning languages and frameworks like Reactjs, Nodejs as well as
 Skills: NODE/ REACT / JS / HTML / CSS
 
 - 🔭 I’m currently working on Bluestacks 
-- 🌱 I’m currently learning Blockchain  
+- 🌱 I’m currently learning new things 
 - 😄 Pronouns: Deepak 
 
 
