@@ -20,4 +20,4 @@ Skills: NODE/ REACT / JS / HTML / CSS
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=deepak-padampur)  
 
-![Profile views](https://gpvc.arturio.dev/deepak-padampur)  
+
