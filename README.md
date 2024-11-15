@@ -3,9 +3,7 @@
 
 I really enjoy learning languages and frameworks like Reactjs, Nodejs as well as work in wordpress.
 
-Skills: NODE/ REACT / JS / HTML / CSS / TS / Firebase
-
-- 🔭 I’m currently working on Bluestacks 
+Skills: NODE/ REACT / JS / HTML / CSS / TS /  
 - 🌱 I’m currently learning new things 
 - 😄 Pronouns: Deepak 
 
