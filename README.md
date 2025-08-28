@@ -14,7 +14,6 @@
 
 Software Developer with 4+ years of experience delivering high-impact, scalable solutions across cloud-native environments. Specialized in orchestration systems, performance optimization, and multi-cloud integration. Proven track record of driving product innovation and collaborating effectively within cross-functional teams.
 
-<img align="right" alt="Coding" width="280" src="https://media.giphy.com/media/765ccrAiB0g9z6EApL/giphy.gif">
 
 - 🚀 Developed multi-cloud orchestration systems with **25-30% efficiency gains**
 - 🔧 Reduced session downtime by **30%** through custom heartbeat systems
