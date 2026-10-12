@@ -1,90 +1,114 @@
-<div align="center">
-
-  # Chhanda Charan Suna
-  
-  <p align="center">
-    <strong>Full-Stack Developer</strong>
-  </p>
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chhanda-charan-suna-a80716169/)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chhanda.charan.2025@gmail.com)
-</div>
-
-## 👨‍💻 About Me
-
-Software Developer with 5+ years of experience delivering high-impact, scalable solutions across cloud-native environments. Specialized in orchestration systems, performance optimization, and multi-cloud integration. Proven track record of driving product innovation and collaborating effectively within cross-functional teams.
-
-
-- 🚀 Developed multi-cloud orchestration systems with **25-30% efficiency gains**
-- 🔧 Reduced session downtime by **30%** through custom heartbeat systems
-- 📊 Driven **40% YoY revenue growth** through product innovations
-- 💻 Passionate about cloud infrastructure optimization and scalable architecture
-- 🌐 Constantly exploring new technologies in the cloud-native ecosystem
-- 💰 Currently working on **Financial solutions** leveraging modern tech stacks
-
-## 🛠️ Tech Stack
+# Chhanda Charan Suna
 
 <div align="center">
-  
-  ### Languages
-  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  
-  ### Frontend
-  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-  ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-  
-  ### Backend
-  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-  ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-  ![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
-  ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
-  ![BullMQ](https://img.shields.io/badge/BullMQ-ED8B00?style=for-the-badge&logo=redis&logoColor=white)
-  ![PubSub](https://img.shields.io/badge/PubSub-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
-  ### Databases
-  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-  ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-  ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-  ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+### Product Engineer · Full-Stack Systems · Cloud Infrastructure
 
-  ### Cloud & DevOps
-  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-  ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-  ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-  ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+**Building reliable systems. Turning complex problems into useful products.**
+
+I work across the stack—from distributed systems and cloud orchestration to product interfaces and the infrastructure behind them. Currently building **Fingaon**, a financial services platform, while continuing to explore system design, developer tooling, and AI-enabled products.
+
+[LinkedIn](https://www.linkedin.com/in/chhanda-charan-suna-a80716169/) · [Email](mailto:chhanda.charan.2025@gmail.com) · [Fingaon](https://fingaon.com)
+
 </div>
 
-## 📊 GitHub Stats
+---
+
+## About Me
+
+I'm a software engineer with **about 5 years of experience** building and improving production software. My work spans multi-cloud infrastructure, backend systems, full-stack product development, and operational tooling.
+
+At BlueStacks / now.gg, I worked on systems that provisioned Android sessions across multiple cloud providers, improved service reliability, and optimized resource utilization.
+
+Today, I'm applying those engineering fundamentals to **building Fingaon from 0 → 1**—working across product architecture, service workflows, identity verification, privacy-conscious document handling, and the infrastructure needed to bring a financial services product to life.
+
+I enjoy the intersection of **engineering depth and product ownership**: understanding why a problem matters, designing the system, shipping the solution, and learning from what happens in production.
+
+### A few things I've worked on
+
+- ☁️ **Multi-cloud orchestration** — Worked across AWS, Azure, GCP, and Leaseweb to provision and manage Android sessions.
+- ⚡ **Reliability engineering** — Improved session downtime by approximately 30% through a custom heartbeat mechanism.
+- 📉 **Resource optimization** — Contributed to reducing Cloud Player resource utilization by approximately 25%.
+- 🧩 **Full-stack product development** — Built and maintained backend services, web interfaces, internal tools, and operational workflows.
+- 🚀 **0 → 1 product building** — Building Fingaon, bringing together financial service discovery, partner workspaces, and service delivery.
+- 🔐 **Privacy-aware systems** — Exploring identity verification, consent-driven document workflows, auditability, and secure financial-service delivery.
+
+---
+
+## Tech Stack
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=deepak-padampur&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepak-padampur&layout=compact&langs_count=7&theme=tokyonight" />
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=ts,js,cpp,python,go" alt="TypeScript, JavaScript, C++, Python, Go" />
+
+**Frontend & Backend**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,nestjs,fastify,redux" alt="React, Next.js, Node.js, NestJS, Fastify, Redux" />
+
+**Data & Messaging**
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,firebase" alt="PostgreSQL, MySQL, MongoDB, Redis, Firebase" />
+
+**Cloud & Infrastructure**
+
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,githubactions" alt="AWS, Google Cloud, Docker, Kubernetes, GitHub Actions" />
+
 </div>
+
+I gravitate toward tools that solve real engineering problems, rather than adopting technologies just to add them to a stack.
+
+---
+
+## Engineering Interests
+
+| Area | What interests me |
+|---|---|
+| Distributed systems | Service boundaries, asynchronous processing, messaging, reliability |
+| System design | Scalability, consistency, failure modes, architectural trade-offs |
+| Cloud infrastructure | Multi-cloud provisioning, observability, resource optimization |
+| Backend engineering | APIs, data modeling, queues, caching, performance |
+| Product engineering | End-to-end ownership, usability, fast feedback loops |
+| AI-enabled products | Practical LLM applications, retrieval, and human-in-the-loop workflows |
+
+---
+
+## Currently Building
+
+### [Fingaon](https://fingaon.com)
+
+A financial services platform connecting individuals and businesses with service professionals through digital discovery, collaborative workspaces, and structured service delivery.
+
+My focus is on making complex financial-service workflows more transparent, efficient, and easier to manage—from onboarding and document collection to quotations and delivery.
+
+---
+
+## GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepak-padampur&theme=tokyonight" alt="deepak-padampur" />
+
+<a href="https://github.com/deepak-padampur">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=deepak-padampur&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="GitHub statistics" />
+</a>
+<a href="https://github.com/deepak-padampur">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepak-padampur&layout=compact&hide_border=true&theme=transparent" alt="Most used languages" />
+</a>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=deepak-padampur&hide_border=true&theme=transparent" alt="GitHub contribution streak" />
+
 </div>
-
-## 🔍 Areas of Expertise
-
-- **Multi-Cloud Integration**: AWS, Azure, GCP, Leaseweb
-- **Orchestration Systems**: VM allocation, session management, auto-scaling
-- **Performance Optimization**: Resource utilization, downtime reduction
-- **Full-Stack Development**: TypeScript, React, Node.js ecosystems
-- **Real-time Systems**: Socket.io, custom heartbeat solutions
-- **Financial Technology**: Building secure and scalable financial solutions
 
 ---
 
 <div align="center">
-  <p>Last updated: 2025-08-25 23:05:51</p>
-  <img src="https://komarev.com/ghpvc/?username=deepak-padampur&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+
+**Build thoughtfully. Ship consistently. Keep learning.**
+
+[LinkedIn](https://www.linkedin.com/in/chhanda-charan-suna-a80716169/) · [GitHub](https://github.com/deepak-padampur) · [Fingaon](https://fingaon.com)
+
+<img src="https://komarev.com/ghpvc/?username=deepak-padampur&style=flat-square&color=64748b&label=PROFILE+VIEWS" alt="Profile views" />
+
 </div>
