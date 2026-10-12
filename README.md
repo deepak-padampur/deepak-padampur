@@ -31,13 +31,29 @@ Currently building **[Fingaon](https://fingaon.com)** — a financial services p
 - **Product Engineering** — End-to-end ownership and user-centric design
 - **AI Engineering** — LLMs, RAG & human-in-the-loop workflows
 
-### 🛠️ Tech Stack
+Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,js,cpp,python,react,nextjs,nodejs,postgres,mongodb,redis,aws,gcp,docker,kubernetes&perline=7" alt="Tech stack" />
+Languages
+
+<img src="https://skillicons.dev/icons?i=ts,js,cpp,python,go" alt="TypeScript, JavaScript, C++, Python, Go" />
+
+Frontend & Backend
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,nestjs,fastify,redux" alt="React, Next.js, Node.js, NestJS, Fastify, Redux" />
+
+Data & Messaging
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,firebase" alt="PostgreSQL, MySQL, MongoDB, Redis, Firebase" />
+
+Cloud & Infrastructure
+
+<img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,jenkins,githubactions" alt="AWS, Google Cloud, Azure, Docker, Kubernetes, Jenkins, GitHub Actions" />
 
 </div>
+
+I gravitate toward tools that solve real engineering problems, rather than adopting technologies just to add them to a stack.
 
 ### 📊 GitHub
 
